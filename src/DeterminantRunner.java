@@ -41,7 +41,7 @@ public class DeterminantRunner
 
     /**
      * prints out the given matrix in a grid.
-     * @param matrixToPrint
+     * @param matrixToPrint - the matrix
      */
     public static void printMatrix(int [][] matrixToPrint)
     {
